@@ -1,0 +1,13 @@
+venv/
+venvvenv/
+__pycache__/
+*.pyc
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*
+!data/processed/.gitkeep
+*.pt
+*.h5
+*.onnx
+.ipynb_checkpoints/
+.vscode/
