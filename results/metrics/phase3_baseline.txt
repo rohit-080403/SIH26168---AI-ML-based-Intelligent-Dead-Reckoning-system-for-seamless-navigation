@@ -1,0 +1,6 @@
+Trip: M
+Duration: 10597.4 sec (176.6 min)
+Total distance travelled (ground truth): 105107.8 m
+Final position error (raw DR vs ground truth): 16928233.2 m
+Drift: 16105.6% of distance travelled
+SIH target: <10% drift
