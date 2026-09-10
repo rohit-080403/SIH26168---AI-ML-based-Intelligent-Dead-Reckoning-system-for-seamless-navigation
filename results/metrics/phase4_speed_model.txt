@@ -1,0 +1,6 @@
+--- Phase 4 Validation Errors (real units) ---
+v_velocity_kmh: MAE=10.749, RMSE=13.875
+v_yaw_rate: MAE=2.100, RMSE=3.861
+v_heading_deg: MAE=11.191, RMSE=22.423
+v_accel_long_g: MAE=0.034, RMSE=0.055
+v_accel_lat_g: MAE=0.038, RMSE=0.061
